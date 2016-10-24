@@ -1,0 +1,6 @@
+#include <stdio.h>
+main()
+{
+printf("yes i remember C. Didnt brush anything before writing this hello c code");
+printf(" oh yes it feels good.");
+}
